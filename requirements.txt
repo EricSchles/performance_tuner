@@ -1,0 +1,7 @@
+pytest
+statsmodels
+scikit-learn
+scipy
+numpy
+pandas
+mlxtend
