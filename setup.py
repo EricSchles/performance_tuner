@@ -24,7 +24,7 @@ setup(
         "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.7",
     ],
-    packages=["performance_tuner"],
+    packages=["performance_tuner", "performance_tuner.precision_recall_tuner"],
     include_package_data=True,
     install_requires=["sklearn", "scipy", "numpy", "statsmodels", "pytest", "mlxtend", "describer_ml"],
 )
